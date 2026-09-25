@@ -78,12 +78,12 @@ Soy un **Desarrollador de Software** con experiencia en el diseño de arquitectu
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvd-2008&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de David" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvd-2008&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidhuaman-2008&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de David" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhuaman-2008&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvd-2008&theme=radical&hide_border=true" alt="Racha de David" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidhuaman-2008&theme=radical&hide_border=true" alt="Racha de David" />
 </p>
 
 ---
